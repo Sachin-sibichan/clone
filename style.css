@@ -18,7 +18,7 @@
       -ms-flex-pack: center;
           justify-content: center;
   height: 27px;
-  background-color: rgba(255, 255, 255, 0.748);
+  background-color: rgba(68, 200, 215, 0.495);
 }
 
 .top-navbar ul {
@@ -188,7 +188,7 @@
 header {
   width: 100vw;
   height: 70vh;
-  background-image: url("./Images/a1.jpeg");
+  background-image: url("./Images/a3.jpeg");
   background-size: cover;
   background-position: top;
   display: -webkit-box;
@@ -201,6 +201,8 @@ header {
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
+  -webkit-box-shadow: 10px 10px 15px 10px rgba(240, 238, 238, 0.75);
+          box-shadow: 10px 10px 15px 10px rgba(240, 238, 238, 0.75);
 }
 
 header .bubble {
