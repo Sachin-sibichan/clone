@@ -311,14 +311,14 @@ header .bubble span {
 
 header .bubble span:nth-child(1) {
   inset: 10px;
-  border-left: 15px solid #ebff0fa6;
+  border-left: 15px solid #96cb24a6;
   -webkit-filter: blur(8px);
           filter: blur(8px);
 }
 
 header .bubble span:nth-child(2) {
   inset: 10px;
-  border-right: 15px solid #ff4486b6;
+  border-right: 15px solid #d3ff44c4;
   -webkit-filter: blur(8px);
           filter: blur(8px);
 }
@@ -332,14 +332,14 @@ header .bubble span:nth-child(3) {
 
 header .bubble span:nth-child(4) {
   inset: 30px;
-  border-left: 15px solid #ff4486af;
+  border-left: 15px solid #e1e1eaaf;
   -webkit-filter: blur(12px);
           filter: blur(12px);
 }
 
 header .bubble span:nth-child(5) {
   inset: 10px;
-  border-bottom: 10px solid rgba(255, 255, 255, 0.73);
+  border-bottom: 10px solid rgba(195, 218, 19, 0.73);
   -webkit-filter: blur(8px);
           filter: blur(8px);
   -webkit-transform: rotate(330deg);
